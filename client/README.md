@@ -11,8 +11,8 @@ Before running the application, make sure you have the following installed:
 
 ## Screenshots
 
-![Screenshot 1](client\src\assets\1.png)
-![Screenshot 2](client\src\assets\2.png)
+![Screenshot 1](src\assets\1.png)
+![Screenshot 2](src\assets\2.png)
 
 ## Contributing
 
