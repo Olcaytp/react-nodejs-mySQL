@@ -10,6 +10,8 @@ Before running the application, make sure you have the following installed:
 - MySQL: [https://www.mysql.com/](https://www.mysql.com/)
 
 ## Screenshots
+![Uploading 1.png…]()
+![Uploading 2.png…]()
 
 
 ## Contributing
